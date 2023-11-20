@@ -1,0 +1,13 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+*.html
+*.txt
+
+# Local development
+*.env*
+*.dev
+*.iml
+.DS_Store
+.idea
+.vscode
